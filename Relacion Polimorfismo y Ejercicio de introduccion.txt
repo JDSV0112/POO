@@ -1,0 +1,3 @@
+Polimorfismo por sobreescritura de métodos es un concepto importante en la programación orientada a objetos (POO). Se refiere a la capacidad de una clase derivada (subclase o clase hija) de proporcionar una implementación específica de un método que ya está definido en su clase base (superclase o clase padre). En otras palabras, el polimorfismo por sobreescritura permite que las clases hijas proporcionen una versión especializada de un método heredado de la clase padre.
+
+El polimorfismo en este proyecto se manifiesta principalmente a través de la capacidad de tratar diferentes tipos de personas (estudiantes, docentes, administrativos) de manera uniforme en ciertas situaciones, aprovechando la herencia y la sobreescritura de métodos en las clases derivadas. 
